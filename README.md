@@ -1,2 +1,2 @@
-# Project-Foul
+# Project-FOUL
 Korean-themed FPS game
