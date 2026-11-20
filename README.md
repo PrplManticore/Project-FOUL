@@ -43,7 +43,7 @@ If you just want to try it quickly without packaging, open the project in Unreal
 
 ## How to play
 
-Goal: [what the player is trying to do in the demo].
+Goal: Sneak or battle your way through hoards of Pihaeja enemy to find keys that will unlock gates to the levels end!.
 
 Controls:
 - Move: WASD
@@ -61,12 +61,8 @@ Controls:
 Tip: if you break line of sight it loses you and goes back to its home area.
 
 ## Known issues
-
-- [e.g. pihaeja animations are still being worked on]
-- [e.g. no ammo or reload - gun has unlimited ammo for now]
+- no ammo or reload - gun has unlimited ammo for now
 
 ## Team
 
 Will, Oskar and Eden.
-
-All the assets in the game were made by us.
